@@ -1,0 +1,2 @@
+Fecha: 2024-12-15T20:02:39.051Z - Metodo: GET - Ruta: /joyas
+Fecha: 2024-12-15T20:02:55.608Z - Metodo: GET - Ruta: /joyas/filtros
